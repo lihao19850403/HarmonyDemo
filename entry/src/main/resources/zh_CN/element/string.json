@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyDemo"
+    },
+    {
+      "name": "rank_page_type",
+      "value": "种类"
+    },
+    {
+      "name": "rank_page_number",
+      "value": "排名"
+    },
+    {
+      "name": "rank_page_vote",
+      "value": "得票数"
+    },
+    {
+      "name": "rank_page_prompt_text",
+      "value": "再按一次退出程序"
+    },
+    {
+      "name": "rank_page_title",
+      "value": "排行榜"
+    },
+    {
+      "name": "rank_page_title_default",
+      "value": " "
+    },
+    {
+      "name": "rank_page_fruit_watermelon",
+      "value": "西瓜"
+    },
+    {
+      "name": "rank_page_fruit_apple",
+      "value": "苹果"
+    },
+    {
+      "name": "rank_page_fruit_banana",
+      "value": "香蕉"
+    },
+    {
+      "name": "rank_page_fruit_grapes",
+      "value": "葡萄"
+    },
+    {
+      "name": "rank_page_fruit_red_grape",
+      "value": "红提"
+    },
+    {
+      "name": "rank_page_fruit_pears",
+      "value": "梨子"
+    },
+    {
+      "name": "rank_page_fruit_pineapple",
+      "value": "菠萝"
+    },
+    {
+      "name": "rank_page_fruit_durian",
+      "value": "榴莲"
+    },
+    {
+      "name": "rank_page_fruit_guava",
+      "value": "番石榴"
+    },
+    {
+      "name": "rank_page_fruit_carambola",
+      "value": "杨桃"
+    }
+  ]
+}

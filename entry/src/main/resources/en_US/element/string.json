@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyDemo"
+    },
+    {
+      "name": "rank_page_type",
+      "value": "variety"
+    },
+    {
+      "name": "rank_page_number",
+      "value": "ranking"
+    },
+    {
+      "name": "rank_page_vote",
+      "value": "vote"
+    },
+    {
+      "name": "rank_page_prompt_text",
+      "value": "Press again to exit the app"
+    },
+    {
+      "name": "rank_page_title",
+      "value": "Ranking List"
+    },
+    {
+      "name": "rank_page_title_default",
+      "value": " "
+    },
+    {
+      "name": "rank_page_fruit_watermelon",
+      "value": "watermelon"
+    },
+    {
+      "name": "rank_page_fruit_apple",
+      "value": "apple"
+    },
+    {
+      "name": "rank_page_fruit_banana",
+      "value": "banana"
+    },
+    {
+      "name": "rank_page_fruit_grapes",
+      "value": "grapes"
+    },
+    {
+      "name": "rank_page_fruit_red_grape",
+      "value": "grape"
+    },
+    {
+      "name": "rank_page_fruit_pears",
+      "value": "pears"
+    },
+    {
+      "name": "rank_page_fruit_pineapple",
+      "value": "pineapple"
+    },
+    {
+      "name": "rank_page_fruit_durian",
+      "value": "durian"
+    },
+    {
+      "name": "rank_page_fruit_guava",
+      "value": "guava"
+    },
+    {
+      "name": "rank_page_fruit_carambola",
+      "value": "carambola"
+    }
+  ]
+}
