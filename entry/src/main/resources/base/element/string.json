@@ -13,6 +13,14 @@
       "value": "HarmonyDemo"
     },
     {
+      "name": "next",
+      "value": "Next"
+    },
+    {
+      "name": "back",
+      "value": "Back"
+    },
+    {
       "name": "rank_page_type",
       "value": "variety"
     },

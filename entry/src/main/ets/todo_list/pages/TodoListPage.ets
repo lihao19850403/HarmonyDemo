@@ -37,6 +37,6 @@ struct TodoListPage {
     }
     .width(CommonConstants.FULL_LENGTH)
     .height(CommonConstants.FULL_LENGTH)
-    .backgroundColor($r("app.color.todo_list_page_background"))
+    .backgroundColor($r("app.color.page_background"))
   }
 }

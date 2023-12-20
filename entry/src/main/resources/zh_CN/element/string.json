@@ -79,6 +79,14 @@
     {
       "name": "todo_list_page_title",
       "value": "代办"
+    },
+    {
+      "name": "next",
+      "value": "下一步"
+    },
+    {
+      "name": "back",
+      "value": "返回"
     }
   ]
 }

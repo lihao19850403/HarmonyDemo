@@ -79,6 +79,14 @@
     {
       "name": "todo_list_page_title",
       "value": "Todolist"
+    },
+    {
+      "name": "next",
+      "value": "Next"
+    },
+    {
+      "name": "back",
+      "value": "Back"
     }
   ]
 }

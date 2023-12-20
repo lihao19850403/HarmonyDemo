@@ -5,8 +5,12 @@
       "value": "#FFFFFF"
     },
     {
-      "name": "rank_page_white",
+      "name": "white",
       "value": "#FFFFFF"
+    },
+    {
+      "name": "page_background",
+      "value": "#F1F3F5"
     },
     {
       "name": "rank_page_first_gradient_start",
@@ -69,10 +73,6 @@
       "value": "#182431"
     },
     {
-      "name": "rank_page_background",
-      "value": "#F1F3F5"
-    },
-    {
       "name": "rank_page_font_description",
       "value": "#989A9C"
     },
@@ -81,8 +81,8 @@
       "value": "#007dff"
     },
     {
-      "name": "todo_list_page_background",
-      "value": "#F1F3F5"
+      "name": "pages_router_button_bg",
+      "value": "#007DFF"
     }
   ]
 }

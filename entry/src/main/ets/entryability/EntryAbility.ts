@@ -21,7 +21,7 @@ export default class EntryAbility extends UIAbility {
     hilog.info(0x0000, 'testTag', '%{public}s', 'Ability onWindowStageCreate');
 
     // 【入口页】
-    windowStage.loadContent('todo_list/pages/TodoListPage', (err, data) => {
+    windowStage.loadContent('main_contents/pages/Index', (err, data) => {
       if (err.code) {
         hilog.isLoggable(0x0000, "testTag", hilog.LogLevel.ERROR);
         hilog.error(0x0000, 'testTag', 'Failed to load the content. Cause: %{public}s', JSON.stringify(err) ?? '');

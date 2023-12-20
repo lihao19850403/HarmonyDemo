@@ -1,7 +1,9 @@
 {
   "src": [
-    "pages/Index",
+    "main_contents/pages/Index",
     "rank_page/pages/RankPage",
-    "todo_list/pages/TodoListPage"
+    "todo_list/pages/TodoListPage",
+    "pages_router/pages/FirstPage",
+    "pages_router/pages/SecondPage"
   ]
 }

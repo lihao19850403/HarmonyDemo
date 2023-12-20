@@ -55,7 +55,7 @@ struct RankPage {
       // 列表内容。
       this.RankList(Style.CONTENT_WIDTH)
     }
-    .backgroundColor($r("app.color.rank_page_background"))
+    .backgroundColor($r("app.color.page_background"))
     .height(WEIGHT)
     .width(WEIGHT)
   }
