@@ -79,6 +79,10 @@
     {
       "name": "rank_page_circle_text_background",
       "value": "#007dff"
+    },
+    {
+      "name": "todo_list_page_background",
+      "value": "#F1F3F5"
     }
   ]
 }

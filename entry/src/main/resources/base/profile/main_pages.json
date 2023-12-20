@@ -1,6 +1,7 @@
 {
   "src": [
     "pages/Index",
-    "rank_page/pages/RankPage"
+    "rank_page/pages/RankPage",
+    "todo_list/pages/TodoListPage"
   ]
 }

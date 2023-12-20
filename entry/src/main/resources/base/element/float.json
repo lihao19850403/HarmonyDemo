@@ -1,0 +1,36 @@
+{
+  "float": [
+    {
+      "name": "todo_list_checkbox_width",
+      "value": "28vp"
+    },
+    {
+      "name": "todo_list_checkbox_margin",
+      "value": "20vp"
+    },
+    {
+      "name": "todo_list_item_font_size",
+      "value": "20fp"
+    },
+    {
+      "name": "todo_list_title_font_size",
+      "value": "28fp"
+    },
+    {
+      "name": "todo_list_title_font_height",
+      "value": "33vp"
+    },
+    {
+      "name": "todo_list_title_margin_top",
+      "value": "24vp"
+    },
+    {
+      "name": "todo_list_title_margin_bottom",
+      "value": "12vp"
+    },
+    {
+      "name": "todo_list_list_item_height",
+      "value": "64vp"
+    }
+  ]
+}
