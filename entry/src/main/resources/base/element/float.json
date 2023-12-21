@@ -31,6 +31,294 @@
     {
       "name": "todo_list_list_item_height",
       "value": "64vp"
+    },
+    {
+      "name": "shop_mall_logo_image_size",
+      "value": "78vp"
+    },
+    {
+      "name": "shop_mall_logo_margin_top",
+      "value": "100vp"
+    },
+    {
+      "name": "shop_mall_logo_margin_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "shop_mall_page_title_text_size",
+      "value": "24fp"
+    },
+    {
+      "name": "shop_mall_normal_text_size",
+      "value": "16fp"
+    },
+    {
+      "name": "shop_mall_big_text_size",
+      "value": "18fp"
+    },
+    {
+      "name": "shop_mall_small_text_size",
+      "value": "14fp"
+    },
+    {
+      "name": "shop_mall_little_text_size",
+      "value": "12fp"
+    },
+    {
+      "name": "shop_mall_login_more_margin_bottom",
+      "value": "30vp"
+    },
+    {
+      "name": "shop_mall_login_more_margin_top",
+      "value": "8vp"
+    },
+    {
+      "name": "shop_mall_login_input_height",
+      "value": "45vp"
+    },
+    {
+      "name": "shop_mall_forgot_margin_top",
+      "value": "8vp"
+    },
+    {
+      "name": "shop_mall_input_margin_top",
+      "value": "12vp"
+    },
+    {
+      "name": "shop_mall_line_height",
+      "value": "1vp"
+    },
+    {
+      "name": "shop_mall_login_button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "shop_mall_login_button_margin_top",
+      "value": "87vp"
+    },
+    {
+      "name": "shop_mall_login_button_margin_bottom",
+      "value": "12vp"
+    },
+    {
+      "name": "shop_mall_vertical_line_margin",
+      "value": "15vp"
+    },
+    {
+      "name": "shop_mall_login_progress_size",
+      "value": "30vp"
+    },
+    {
+      "name": "shop_mall_login_progress_margin_top",
+      "value": "20vp"
+    },
+    {
+      "name": "shop_mall_other_login_margin_top",
+      "value": "50vp"
+    },
+    {
+      "name": "shop_mall_other_login_margin_bottom",
+      "value": "12vp"
+    },
+    {
+      "name": "shop_mall_login_page_padding_bottom",
+      "value": "24vp"
+    },
+    {
+      "name": "shop_mall_other_login_image_size",
+      "value": "48vp"
+    },
+    {
+      "name": "shop_mall_page_padding_hor",
+      "value": "12vp"
+    },
+    {
+      "name": "shop_mall_mainPage_baseTab_top",
+      "value": "4vp"
+    },
+    {
+      "name": "shop_mall_mainPage_baseTab_margin",
+      "value": "8vp"
+    },
+    {
+      "name": "shop_mall_mainPage_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "shop_mall_mainPage_barHeight",
+      "value": "56vp"
+    },
+    {
+      "name": "shop_mall_mainPage_baseTab_size",
+      "value": "25vp"
+    },
+    {
+      "name": "shop_mall_main_tab_fontSize",
+      "value": "10fp"
+    },
+    {
+      "name": "shop_mall_mainPage_tabTitles_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "shop_mall_mainPage_tabTitles_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "shop_mall_home_swiper_borderRadius",
+      "value": "16vp"
+    },
+    {
+      "name": "shop_mall_home_swiper_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "shop_mall_home_grid_columnsGap",
+      "value": "8vp"
+    },
+    {
+      "name": "shop_mall_home_grid_rowGap",
+      "value": "12vp"
+    },
+    {
+      "name": "shop_mall_home_grid_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "shop_mall_home_grid_height",
+      "value": "124vp"
+    },
+    {
+      "name": "shop_mall_home_grid_margin",
+      "value": "10vp"
+    },
+    {
+      "name": "shop_mall_home_list_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "shop_mall_home_list_padding",
+      "value": "8vp"
+    },
+    {
+      "name": "shop_mall_home_grid_borderRadius",
+      "value": "24vp"
+    },
+    {
+      "name": "shop_mall_home_text_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "shop_mall_home_backgroundImage_borderRadius",
+      "value": "12vp"
+    },
+    {
+      "name": "shop_mall_home_secondGrid_height",
+      "value": "260vp"
+    },
+    {
+      "name": "shop_mall_home_secondGrid_margin",
+      "value": "10vp"
+    },
+    {
+      "name": "shop_mall_home_homeCell_size",
+      "value": "24vp"
+    },
+    {
+      "name": "shop_mall_home_homeCell_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "shop_mall_home_homeCell_width",
+      "value": "80vp"
+    },
+    {
+      "name": "shop_mall_home_homeCell_height",
+      "value": "80vp"
+    },
+    {
+      "name": "shop_mall_setting_name_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "shop_mall_setting_account_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "shop_mall_setting_account_size",
+      "value": "48vp"
+    },
+    {
+      "name": "shop_mall_setting_account_fontSize",
+      "value": "20fp"
+    },
+    {
+      "name": "shop_mall_setting_account_text_height",
+      "value": "28vp"
+    },
+    {
+      "name": "shop_mall_setting_account_height",
+      "value": "96vp"
+    },
+    {
+      "name": "shop_mall_setting_account_padding",
+      "value": "24vp"
+    },
+    {
+      "name": "shop_mall_setting_account_borderRadius",
+      "value": "16vp"
+    },
+    {
+      "name": "shop_mall_setting_list_height",
+      "value": "48vp"
+    },
+    {
+      "name": "shop_mall_setting_list_padding",
+      "value": "4vp"
+    },
+    {
+      "name": "shop_mall_setting_list_borderRadius",
+      "value": "16vp"
+    },
+    {
+      "name": "shop_mall_setting_list_startMargin",
+      "value": "42vp"
+    },
+    {
+      "name": "shop_mall_setting_list_endMargin",
+      "value": "24vp"
+    },
+    {
+      "name": "shop_mall_setting_list_strokeWidth",
+      "value": "0.25vp"
+    },
+    {
+      "name": "shop_mall_setting_button_bottom",
+      "value": "55vp"
+    },
+    {
+      "name": "shop_mall_setting_size",
+      "value": "22vp"
+    },
+    {
+      "name": "shop_mall_setting_padding",
+      "value": "10vp"
+    },
+    {
+      "name": "shop_mall_setting_jump_width",
+      "value": "12vp"
+    },
+    {
+      "name": "shop_mall_setting_jump_height",
+      "value": "24vp"
+    },
+    {
+      "name": "shop_mall_setting_settingCell_left",
+      "value": "8vp"
+    },
+    {
+      "name": "shop_mall_setting_settingCell_right",
+      "value": "22vp"
     }
   ]
 }

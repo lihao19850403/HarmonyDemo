@@ -87,6 +87,214 @@
     {
       "name": "back",
       "value": "Back"
+    },
+    {
+      "name": "shop_mall_login_page",
+      "value": "Login page"
+    },
+    {
+      "name": "shop_mall_login_more",
+      "value": "Log in to your account to use more services"
+    },
+    {
+      "name": "shop_mall_account",
+      "value": "Account"
+    },
+    {
+      "name": "shop_mall_password",
+      "value": "Password"
+    },
+    {
+      "name": "shop_mall_login",
+      "value": "Log in"
+    },
+    {
+      "name": "shop_mall_register_account",
+      "value": "Registering an Account"
+    },
+    {
+      "name": "shop_mall_forgot_password",
+      "value": "Forgot Password"
+    },
+    {
+      "name": "shop_mall_message_login",
+      "value": "SMS verification code login"
+    },
+    {
+      "name": "shop_mall_other_login_method",
+      "value": "Other login methods"
+    },
+    {
+      "name": "shop_mall_vertical_line",
+      "value": "  |  "
+    },
+    {
+      "name": "shop_mall_input_empty_tips",
+      "value": "The input cannot be empty."
+    },
+    {
+      "name": "shop_mall_login_success",
+      "value": "The login is successful."
+    },
+    {
+      "name": "shop_mall_my_love",
+      "value": "My favorite"
+    },
+    {
+      "name": "shop_mall_history_record",
+      "value": "History"
+    },
+    {
+      "name": "shop_mall_message",
+      "value": "Message"
+    },
+    {
+      "name": "shop_mall_shopping_cart",
+      "value": "Shopping cart"
+    },
+    {
+      "name": "shop_mall_my_goal",
+      "value": "My goal"
+    },
+    {
+      "name": "shop_mall_group",
+      "value": "Group"
+    },
+    {
+      "name": "shop_mall_favorites",
+      "value": "Favorites"
+    },
+    {
+      "name": "shop_mall_recycle_bin",
+      "value": "Recycle Bin"
+    },
+    {
+      "name": "shop_mall_rankings",
+      "value": "Rankings"
+    },
+    {
+      "name": "shop_mall_new_product_debut",
+      "value": "New product debut"
+    },
+    {
+      "name": "shop_mall_big_name_flash",
+      "value": "Big name flash"
+    },
+    {
+      "name": "shop_mall_find_good",
+      "value": "Find good things"
+    },
+    {
+      "name": "shop_mall_xiamen_station",
+      "value": "Xiamen Station, we'll see you."
+    },
+    {
+      "name": "shop_mall_more_big_names",
+      "value": "More Big Names"
+    },
+    {
+      "name": "shop_mall_push_notifications",
+      "value": "Push Notifications"
+    },
+    {
+      "name": "shop_mall_data_management",
+      "value": "Data Management"
+    },
+    {
+      "name": "shop_mall_menu_settings",
+      "value": "Menu Settings"
+    },
+    {
+      "name": "shop_mall_about",
+      "value": "About"
+    },
+    {
+      "name": "shop_mall_clear_cache",
+      "value": "Clear Cache"
+    },
+    {
+      "name": "shop_mall_mainPage_tabTitles_home",
+      "value": "Home"
+    },
+    {
+      "name": "shop_mall_mainPage_tabTitles_mine",
+      "value": "Mine"
+    },
+    {
+      "name": "shop_mall_mainPage_top",
+      "value": "Rankings"
+    },
+    {
+      "name": "shop_mall_mainPage_text_top",
+      "value": "Xiamen Station, we'll see you."
+    },
+    {
+      "name": "shop_mall_mainPage_new",
+      "value": "New product debut"
+    },
+    {
+      "name": "shop_mall_mainPage_text_new",
+      "value": "Xiamen Station, we'll see you."
+    },
+    {
+      "name": "shop_mall_mainPage_brand",
+      "value": "Big name flash"
+    },
+    {
+      "name": "shop_mall_mainPage_text_brand",
+      "value": "More Big Names"
+    },
+    {
+      "name": "shop_mall_mainPage_found",
+      "value": "Find good things"
+    },
+    {
+      "name": "shop_mall_mainPage_text_found",
+      "value": "Xiamen Station, we'll see you."
+    },
+    {
+      "name": "shop_mall_setting_account_name",
+      "value": "Mr. Lee"
+    },
+    {
+      "name": "shop_mall_setting_account_email",
+      "value": "2000000@shenhua.cc"
+    },
+    {
+      "name": "shop_mall_setting_list_news",
+      "value": "Push Notifications"
+    },
+    {
+      "name": "shop_mall_setting_list_data",
+      "value": "Data Management"
+    },
+    {
+      "name": "shop_mall_setting_list_menu",
+      "value": "Menu Settings"
+    },
+    {
+      "name": "shop_mall_setting_list_about",
+      "value": "Clear Cache"
+    },
+    {
+      "name": "shop_mall_setting_list_storage",
+      "value": "清除缓存"
+    },
+    {
+      "name": "shop_mall_setting_list_privacy",
+      "value": "Privacy Agreement"
+    },
+    {
+      "name": "shop_mall_setting_button",
+      "value": "Logout"
+    },
+    {
+      "name": "shop_mall_home_list",
+      "value": "List"
+    },
+    {
+      "name": "shop_mall_setting_toggle",
+      "value": "switch"
     }
   ]
 }

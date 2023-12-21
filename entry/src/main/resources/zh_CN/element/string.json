@@ -87,6 +87,214 @@
     {
       "name": "back",
       "value": "返回"
+    },
+    {
+      "name": "shop_mall_login_page",
+      "value": "登录界面"
+    },
+    {
+      "name": "shop_mall_login_more",
+      "value": "登录帐号以使用更多服务"
+    },
+    {
+      "name": "shop_mall_account",
+      "value": "帐号"
+    },
+    {
+      "name": "shop_mall_password",
+      "value": "密码"
+    },
+    {
+      "name": "shop_mall_login",
+      "value": "登录"
+    },
+    {
+      "name": "shop_mall_register_account",
+      "value": "注册帐号"
+    },
+    {
+      "name": "shop_mall_forgot_password",
+      "value": "忘记密码"
+    },
+    {
+      "name": "shop_mall_message_login",
+      "value": "短信验证码登录"
+    },
+    {
+      "name": "shop_mall_other_login_method",
+      "value": "其他登录方式"
+    },
+    {
+      "name": "shop_mall_vertical_line",
+      "value": "  |  "
+    },
+    {
+      "name": "shop_mall_input_empty_tips",
+      "value": "输入不能为空"
+    },
+    {
+      "name": "shop_mall_login_success",
+      "value": "登录成功"
+    },
+    {
+      "name": "shop_mall_my_love",
+      "value": "我的最爱"
+    },
+    {
+      "name": "shop_mall_history_record",
+      "value": "历史记录"
+    },
+    {
+      "name": "shop_mall_message",
+      "value": "消息"
+    },
+    {
+      "name": "shop_mall_shopping_cart",
+      "value": "购物车"
+    },
+    {
+      "name": "shop_mall_my_goal",
+      "value": "我的目标"
+    },
+    {
+      "name": "shop_mall_group",
+      "value": "圈子"
+    },
+    {
+      "name": "shop_mall_favorites",
+      "value": "收藏"
+    },
+    {
+      "name": "shop_mall_recycle_bin",
+      "value": "回收站"
+    },
+    {
+      "name": "shop_mall_rankings",
+      "value": "排行榜"
+    },
+    {
+      "name": "shop_mall_new_product_debut",
+      "value": "新品首发"
+    },
+    {
+      "name": "shop_mall_big_name_flash",
+      "value": "大牌闪购"
+    },
+    {
+      "name": "shop_mall_find_good",
+      "value": "发现好物"
+    },
+    {
+      "name": "shop_mall_xiamen_station",
+      "value": "厦门站，我们不见不散"
+    },
+    {
+      "name": "shop_mall_more_big_names",
+      "value": "更多大牌"
+    },
+    {
+      "name": "shop_mall_push_notifications",
+      "value": "推送通知"
+    },
+    {
+      "name": "shop_mall_data_management",
+      "value": "数据管理"
+    },
+    {
+      "name": "shop_mall_menu_settings",
+      "value": "菜单设置"
+    },
+    {
+      "name": "shop_mall_about",
+      "value": "关于"
+    },
+    {
+      "name": "shop_mall_clear_cache",
+      "value": "清除缓存"
+    },
+    {
+      "name": "shop_mall_mainPage_tabTitles_home",
+      "value": "首页"
+    },
+    {
+      "name": "shop_mall_mainPage_tabTitles_mine",
+      "value": "我的"
+    },
+    {
+      "name": "shop_mall_mainPage_top",
+      "value": "排行榜"
+    },
+    {
+      "name": "shop_mall_mainPage_text_top",
+      "value": "厦门站，我们不见不散"
+    },
+    {
+      "name": "shop_mall_mainPage_new",
+      "value": "新品首发"
+    },
+    {
+      "name": "shop_mall_mainPage_text_new",
+      "value": "厦门站，我们不见不散"
+    },
+    {
+      "name": "shop_mall_mainPage_brand",
+      "value": "大牌闪购"
+    },
+    {
+      "name": "shop_mall_mainPage_text_brand",
+      "value": "更多大牌"
+    },
+    {
+      "name": "shop_mall_mainPage_found",
+      "value": "发现好物"
+    },
+    {
+      "name": "shop_mall_mainPage_text_found",
+      "value": "厦门站，我们不见不散"
+    },
+    {
+      "name": "shop_mall_setting_account_name",
+      "value": "李先生"
+    },
+    {
+      "name": "shop_mall_setting_account_email",
+      "value": "2000000@shenhua.cc"
+    },
+    {
+      "name": "shop_mall_setting_list_news",
+      "value": "推送通知"
+    },
+    {
+      "name": "shop_mall_setting_list_data",
+      "value": "数据管理"
+    },
+    {
+      "name": "shop_mall_setting_list_menu",
+      "value": "菜单设置"
+    },
+    {
+      "name": "shop_mall_setting_list_about",
+      "value": "关于"
+    },
+    {
+      "name": "shop_mall_setting_list_storage",
+      "value": "清除缓存"
+    },
+    {
+      "name": "shop_mall_setting_list_privacy",
+      "value": "隐私协议"
+    },
+    {
+      "name": "shop_mall_setting_button",
+      "value": "退出登录"
+    },
+    {
+      "name": "shop_mall_home_list",
+      "value": "列表"
+    },
+    {
+      "name": "shop_mall_setting_toggle",
+      "value": "开关"
     }
   ]
 }

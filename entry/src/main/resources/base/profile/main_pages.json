@@ -4,6 +4,8 @@
     "rank_page/pages/RankPage",
     "todo_list/pages/TodoListPage",
     "pages_router/pages/FirstPage",
-    "pages_router/pages/SecondPage"
+    "pages_router/pages/SecondPage",
+    "shop_mall/pages/LoginPage",
+    "shop_mall/pages/MainPage"
   ]
 }

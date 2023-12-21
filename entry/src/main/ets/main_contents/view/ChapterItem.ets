@@ -12,6 +12,9 @@ export default struct ChapterItem {
         .fontSize("20fp")
         .fontWeight(400)
         .maxLines(1)
+        .textOverflow({
+          overflow: TextOverflow.Ellipsis
+        })
         .margin({
           left: 20,
           right: 20
