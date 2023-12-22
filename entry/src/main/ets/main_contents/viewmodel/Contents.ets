@@ -8,6 +8,7 @@ export class Contents {
     new ChapterData(String(++this.chapterIDs), "代办事项列表", "todo_list/pages/TodoListPage"),
     new ChapterData(String(++this.chapterIDs), "页面跳转示例", "pages_router/pages/FirstPage"),
     new ChapterData(String(++this.chapterIDs), "购物商城", "shop_mall/pages/LoginPage"),
+    new ChapterData(String(++this.chapterIDs), "任务管理页面", "target/pages/MainPage"),
   ];
 
   get(): ChapterData[] {

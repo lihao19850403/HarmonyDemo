@@ -295,6 +295,66 @@
     {
       "name": "shop_mall_setting_toggle",
       "value": "switch"
+    },
+    {
+      "name": "target_title",
+      "value": "Work Objectives"
+    },
+    {
+      "name": "target_add_task",
+      "value": "Add Sub-Targets"
+    },
+    {
+      "name": "target_name",
+      "value": "Q1 Operation Targets"
+    },
+    {
+      "name": "target_info",
+      "value": "Increase the number of users and user activeness."
+    },
+    {
+      "name": "target_overall_progress",
+      "value": "Overall Progress"
+    },
+    {
+      "name": "target_add_task_dialog",
+      "value": "Add Sub-Targets"
+    },
+    {
+      "name": "target_latest_updateTime",
+      "value": "Update Time: "
+    },
+    {
+      "name": "target_sub_goals",
+      "value": "Sub-goals"
+    },
+    {
+      "name": "target_cancel_button",
+      "value": "Cancel"
+    },
+    {
+      "name": "target_confirm_button",
+      "value": "OK"
+    },
+    {
+      "name": "target_delete_button",
+      "value": "Delete"
+    },
+    {
+      "name": "target_edit_button",
+      "value": "Edit"
+    },
+    {
+      "name": "target_select_all_button",
+      "value": "Select All"
+    },
+    {
+      "name": "target_cannot_input_empty",
+      "value": "The task name cannot be null."
+    },
+    {
+      "name": "target_input_target_name",
+      "value": "Please enter a sub-target name."
     }
   ]
 }

@@ -6,6 +6,7 @@
     "pages_router/pages/FirstPage",
     "pages_router/pages/SecondPage",
     "shop_mall/pages/LoginPage",
-    "shop_mall/pages/MainPage"
+    "shop_mall/pages/MainPage",
+    "target/pages/MainPage"
   ]
 }

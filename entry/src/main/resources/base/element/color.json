@@ -139,6 +139,42 @@
     {
       "name": "shop_mall_setting_button_fontColor",
       "value": "#FA2A2D"
+    },
+    {
+      "name": "target_index_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "target_main_blue",
+      "value": "#007DFF"
+    },
+    {
+      "name": "target_main_red",
+      "value": "#E84026"
+    },
+    {
+      "name": "target_custom_button_color",
+      "value": "#E8E7EB"
+    },
+    {
+      "name": "target_edit_blue",
+      "value": "#1A007DFF"
+    },
+    {
+      "name": "target_button_background",
+      "value": "#0D182431"
+    },
+    {
+      "name": "target_title_black_color",
+      "value": "#182431"
+    },
+    {
+      "name": "target_dialog_progress",
+      "value": "#4D4D4D"
+    },
+    {
+      "name": "target_input_background",
+      "value": "#0D182431"
     }
   ]
 }

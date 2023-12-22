@@ -295,6 +295,66 @@
     {
       "name": "shop_mall_setting_toggle",
       "value": "switch"
+    },
+    {
+      "name": "target_title",
+      "value": "工作目标"
+    },
+    {
+      "name": "target_add_task",
+      "value": "添加子目标"
+    },
+    {
+      "name": "target_name",
+      "value": "第一季度运营目标"
+    },
+    {
+      "name": "target_info",
+      "value": "实现用户量与用户活跃度提升。"
+    },
+    {
+      "name": "target_overall_progress",
+      "value": "整体进度"
+    },
+    {
+      "name": "target_add_task_dialog",
+      "value": "添加子目标"
+    },
+    {
+      "name": "target_latest_updateTime",
+      "value": "更新时间: "
+    },
+    {
+      "name": "target_sub_goals",
+      "value": "子目标"
+    },
+    {
+      "name": "target_cancel_button",
+      "value": "取消"
+    },
+    {
+      "name": "target_confirm_button",
+      "value": "确定"
+    },
+    {
+      "name": "target_delete_button",
+      "value": "删除"
+    },
+    {
+      "name": "target_edit_button",
+      "value": "编辑"
+    },
+    {
+      "name": "target_select_all_button",
+      "value": "全选"
+    },
+    {
+      "name": "target_cannot_input_empty",
+      "value": "任务名称不能为空！"
+    },
+    {
+      "name": "target_input_target_name",
+      "value": "请输入子目标名称"
     }
   ]
 }
