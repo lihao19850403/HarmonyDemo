@@ -7,6 +7,8 @@
     "pages_router/pages/SecondPage",
     "shop_mall/pages/LoginPage",
     "shop_mall/pages/MainPage",
-    "target/pages/MainPage"
+    "target/pages/MainPage",
+    "simple_video/pages/SimpleVideoIndex",
+    "simple_video/pages/SimpleVideoPlayer"
   ]
 }

@@ -355,6 +355,22 @@
     {
       "name": "target_input_target_name",
       "value": "Please enter a sub-target name."
+    },
+    {
+      "name": "simple_video_secondPage",
+      "value": "pages/play"
+    },
+    {
+      "name": "simple_video_slider_startTime",
+      "value": "00:00"
+    },
+    {
+      "name": "simple_video_back",
+      "value": "video"
+    },
+    {
+      "name": "simple_video_empty",
+      "value": "empty"
     }
   ]
 }

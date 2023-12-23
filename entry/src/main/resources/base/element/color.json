@@ -175,6 +175,14 @@
     {
       "name": "target_input_background",
       "value": "#0D182431"
+    },
+    {
+      "name": "simple_video_index_backgroundColor",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "simple_video_slide_selectedColor",
+      "value": "#FF4B6A"
     }
   ]
 }

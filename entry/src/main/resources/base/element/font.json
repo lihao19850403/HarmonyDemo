@@ -1,0 +1,72 @@
+{
+  "integer": [
+    {
+      "name": "simple_video_index_swiper_height",
+      "value": 188
+    },
+    {
+      "name": "simple_video_index_module_height",
+      "value": 188
+    },
+    {
+      "name": "simple_video_index_swiper_with",
+      "value":336
+    },
+    {
+      "name": "simple_video_index_module_with",
+      "value": 336
+    },
+    {
+      "name": "simple_video_index_swiper_imageRadius",
+      "value":12
+    },
+    {
+      "name": "simple_video_index_module_Radius",
+      "value": 24
+    },
+    {
+      "name": "simple_video_index_swiper_margin",
+      "value": 12
+    },
+    {
+      "name": "simple_video_index_space",
+      "value": 24
+    },
+    {
+      "name": "simple_video_module_name_size",
+      "value": 18
+    },
+    {
+      "name": "simple_video_module_name_margin",
+      "value": 12
+    },
+    {
+      "name": "simple_video_module_image_with",
+      "value": 132
+    },
+    {
+      "name": "simple_video_module_image_height",
+      "value": 74
+    },
+    {
+      "name": "simple_video_name_size",
+      "value": 16
+    },
+    {
+      "name": "simple_video_time_size",
+      "value": 16
+    },
+    {
+      "name": "simple_video_start_and_pause_size",
+      "value": 50
+    },
+    {
+      "name": "simple_video_slider_with",
+      "value": 240
+    },
+    {
+      "name": "simple_video_slider_height",
+      "value": 4
+    }
+  ]
+}
