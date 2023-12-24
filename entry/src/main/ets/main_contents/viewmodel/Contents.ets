@@ -10,6 +10,7 @@ export class Contents {
     new ChapterData(String(++this.chapterIDs), "购物商城", "shop_mall/pages/LoginPage"),
     new ChapterData(String(++this.chapterIDs), "任务管理页面", "target/pages/MainPage"),
     new ChapterData(String(++this.chapterIDs), "简易视频播放器", "simple_video/pages/SimpleVideoIndex"),
+    new ChapterData(String(++this.chapterIDs), "自定义弹窗", "multi_dialogs/pages/HomePage"),
   ];
 
   get(): ChapterData[] {

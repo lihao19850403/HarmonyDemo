@@ -1,0 +1,35 @@
+{
+  "strarray": [
+    {
+      "name": "multi_dialogs_sex_array",
+      "value": [
+        {
+          "value": "male"
+        },
+        {
+          "value": "female"
+        }
+      ]
+    },
+    {
+      "name": "multi_dialogs_hobbies_data",
+      "value": [
+        {
+          "value": "Soccer"
+        },
+        {
+          "value": "Badminton"
+        },
+        {
+          "value": "Travelling"
+        },
+        {
+          "value": "Playing games"
+        },
+        {
+          "value": "Reading books"
+        }
+      ]
+    }
+  ]
+}

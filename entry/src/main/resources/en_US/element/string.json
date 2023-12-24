@@ -371,6 +371,50 @@
     {
       "name": "simple_video_empty",
       "value": "empty"
+    },
+    {
+      "name": "multi_dialogs_text_input_hint",
+      "value": "Nickname"
+    },
+    {
+      "name": "multi_dialogs_text_input_signature",
+      "value": "Personalized signature"
+    },
+    {
+      "name": "multi_dialogs_title_birthdate",
+      "value": "Date of birth"
+    },
+    {
+      "name": "multi_dialogs_title_sex",
+      "value": "Sex"
+    },
+    {
+      "name": "multi_dialogs_default_sex",
+      "value": "Male"
+    },
+    {
+      "name": "multi_dialogs_title_hobbies",
+      "value": "Hobbies (multiple choices)"
+    },
+    {
+      "name": "multi_dialogs_alert_dialog_message",
+      "value": "The current data is not saved. Are you sure you want to leave?"
+    },
+    {
+      "name": "multi_dialogs_cancel_button",
+      "value": "Cancel"
+    },
+    {
+      "name": "multi_dialogs_definite_button",
+      "value": "Definite"
+    },
+    {
+      "name": "multi_dialogs_text_personal_title",
+      "value": "Personal information"
+    },
+    {
+      "name": "multi_dialogs_text_title_hobbies",
+      "value": "Hobbies"
     }
   ]
 }
