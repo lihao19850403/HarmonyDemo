@@ -431,6 +431,54 @@
     {
       "name": "anim_file_index_title",
       "value": "Cloud space"
+    },
+    {
+      "name": "webview_promptsLocal",
+      "value": "Local H5 applet"
+    },
+    {
+      "name": "webview_promptsCloud",
+      "value": "Cloud H5 applet"
+    },
+    {
+      "name": "webview_loadLocalH5",
+      "value": "Load the local H5"
+    },
+    {
+      "name": "webview_loadCloudH5",
+      "value": "Load cloud H5"
+    },
+    {
+      "name": "webview_textValue",
+      "value": "These are web components"
+    },
+    {
+      "name": "webview_local",
+      "value": "(Local)"
+    },
+    {
+      "name": "webview_online",
+      "value": "(online)"
+    },
+    {
+      "name": "webview_btnValue",
+      "value": "Click on the raffle"
+    },
+    {
+      "name": "webview_prompts",
+      "value": "Sweepstakes App"
+    },
+    {
+      "name": "webview_web_alert_dialog_button_value",
+      "value": "Confirm"
+    },
+    {
+      "name": "webview_web_width",
+      "value": "93.3%"
+    },
+    {
+      "name": "webview_internet_err",
+      "value": "Failed to load the network."
     }
   ]
 }

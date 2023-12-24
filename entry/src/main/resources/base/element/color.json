@@ -9,6 +9,18 @@
       "value": "#FFFFFF"
     },
     {
+      "name": "blue",
+      "value": "#007DFF"
+    },
+    {
+      "name": "black",
+      "value": "#000000"
+    },
+    {
+      "name": "navy_blue",
+      "value": "#F1F3F5"
+    },
+    {
       "name": "page_background",
       "value": "#F1F3F5"
     },
@@ -211,6 +223,10 @@
     {
       "name": "anim_index_tab_font_color",
       "value": "#007DFF"
+    },
+    {
+      "name": "webview_text_value_font_color",
+      "value": "#182431"
     }
   ]
 }

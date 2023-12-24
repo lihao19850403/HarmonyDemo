@@ -431,6 +431,54 @@
     {
       "name": "anim_file_index_title",
       "value": "云空间"
+    },
+    {
+      "name": "webview_promptsLocal",
+      "value": "本地H5小程序"
+    },
+    {
+      "name": "webview_promptsCloud",
+      "value": "云端H5小程序"
+    },
+    {
+      "name": "webview_loadLocalH5",
+      "value": "加载本地H5"
+    },
+    {
+      "name": "webview_loadCloudH5",
+      "value": "加载云端H5"
+    },
+    {
+      "name": "webview_textValue",
+      "value": "以上为Web组件"
+    },
+    {
+      "name": "webview_local",
+      "value": "(本地)"
+    },
+    {
+      "name": "webview_online",
+      "value": "(在线)"
+    },
+    {
+      "name": "webview_btnValue",
+      "value": "点击抽奖"
+    },
+    {
+      "name": "webview_prompts",
+      "value": "抽奖应用"
+    },
+    {
+      "name": "webview_web_alert_dialog_button_value",
+      "value": "确定"
+    },
+    {
+      "name": "webview_web_width",
+      "value": "93.3%"
+    },
+    {
+      "name": "webview_internet_err",
+      "value": "网络加载失败！"
     }
   ]
 }

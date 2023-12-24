@@ -11,6 +11,8 @@
     "simple_video/pages/SimpleVideoIndex",
     "simple_video/pages/SimpleVideoPlayer",
     "multi_dialogs/pages/HomePage",
-    "property_anim/pages/TabIndex"
+    "property_anim/pages/TabIndex",
+    "webview_demo/pages/MainPage",
+    "webview_demo/pages/WebPage"
   ]
 }
