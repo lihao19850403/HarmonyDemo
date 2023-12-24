@@ -1,6 +1,8 @@
 import UIAbility from '@ohos.app.ability.UIAbility';
 import hilog from '@ohos.hilog';
 import window from '@ohos.window';
+import display from '@ohos.display';
+import { GlobalContext } from "../main_contents/common/utils/GlobalContext";
 
 export default class EntryAbility extends UIAbility {
   onCreate(want, launchParam) {
@@ -15,10 +17,13 @@ export default class EntryAbility extends UIAbility {
     hilog.info(0x0000, 'testTag', '%{public}s', 'Ability onDestroy');
   }
 
-  onWindowStageCreate(windowStage: window.WindowStage) {
+  async onWindowStageCreate(windowStage: window.WindowStage) {
     // Main window is created, set main page for this ability
     hilog.isLoggable(0x0000, "testTag", hilog.LogLevel.INFO);
     hilog.info(0x0000, 'testTag', '%{public}s', 'Ability onWindowStageCreate');
+
+    // 先填写了屏幕尺寸等参数。
+    GlobalContext.getInstance().setObject("display", await display.getDefaultDisplaySync());
 
     // 【入口页】
     windowStage.loadContent('main_contents/pages/Index', (err, data) => {

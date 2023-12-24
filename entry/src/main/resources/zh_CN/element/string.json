@@ -415,6 +415,22 @@
     {
       "name": "multi_dialogs_text_title_hobbies",
       "value": "兴趣爱好"
+    },
+    {
+      "name": "anim_refresh_default_header_hint",
+      "value": "下拉刷新"
+    },
+    {
+      "name": "anim_refresh_default_header_load",
+      "value": "松开刷新"
+    },
+    {
+      "name": "anim_refresh_default_header_loading",
+      "value": "正在刷新..."
+    },
+    {
+      "name": "anim_file_index_title",
+      "value": "云空间"
     }
   ]
 }

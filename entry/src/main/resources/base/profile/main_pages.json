@@ -10,6 +10,7 @@
     "target/pages/MainPage",
     "simple_video/pages/SimpleVideoIndex",
     "simple_video/pages/SimpleVideoPlayer",
-    "multi_dialogs/pages/HomePage"
+    "multi_dialogs/pages/HomePage",
+    "property_anim/pages/TabIndex"
   ]
 }
