@@ -227,6 +227,34 @@
     {
       "name": "webview_text_value_font_color",
       "value": "#182431"
+    },
+    {
+      "name": "news_color_index",
+      "value": "#1E67DC"
+    },
+    {
+      "name": "news_fontColor_text",
+      "value": "#000000"
+    },
+    {
+      "name": "news_fontColor_text1",
+      "value": "#8A8A8A"
+    },
+    {
+      "name": "news_fontColor_text2",
+      "value": "#FF989898"
+    },
+    {
+      "name": "news_fontColor_text3",
+      "value": "#182431"
+    },
+    {
+      "name": "news_listColor",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "news_dividerColor",
+      "value": "#E2E2E2"
     }
   ]
 }

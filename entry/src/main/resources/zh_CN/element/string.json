@@ -479,6 +479,46 @@
     {
       "name": "webview_internet_err",
       "value": "网络加载失败！"
+    },
+    {
+      "name": "news_pull_up_load_text",
+      "value": "加载中..."
+    },
+    {
+      "name": "news_pull_down_refresh_text",
+      "value": "下拉刷新"
+    },
+    {
+      "name": "news_release_refresh_text",
+      "value": "松开刷新"
+    },
+    {
+      "name": "news_refreshing_text",
+      "value": "正在刷新"
+    },
+    {
+      "name": "news_refresh_success_text",
+      "value": "刷新成功"
+    },
+    {
+      "name": "news_refresh_fail_text",
+      "value": "刷新失败"
+    },
+    {
+      "name": "news_http_error_message",
+      "value": "网络请求失败，请稍后尝试！"
+    },
+    {
+      "name": "news_page_none_msg",
+      "value": "网络加载失败"
+    },
+    {
+      "name": "news_prompt_message",
+      "value": "没有更多数据了"
+    },
+    {
+      "name": "news_dependency_reason",
+      "value": "用于发起网络数据请求"
     }
   ]
 }

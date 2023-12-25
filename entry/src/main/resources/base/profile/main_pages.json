@@ -13,6 +13,7 @@
     "multi_dialogs/pages/HomePage",
     "property_anim/pages/TabIndex",
     "webview_demo/pages/MainPage",
-    "webview_demo/pages/WebPage"
+    "webview_demo/pages/WebPage",
+    "news_demo/pages/Index"
   ]
 }

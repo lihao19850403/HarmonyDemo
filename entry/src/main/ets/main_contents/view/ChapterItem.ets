@@ -9,9 +9,10 @@ export default struct ChapterItem {
     Row() {
       // 文字提示。
       Text(this.chapter.id + ". " + this.chapter.name)
-        .fontSize("20fp")
+        .width("100%")
+        .fontSize("17fp")
         .fontWeight(400)
-        .maxLines(1)
+        .maxLines(2)
         .textOverflow({
           overflow: TextOverflow.Ellipsis
         })

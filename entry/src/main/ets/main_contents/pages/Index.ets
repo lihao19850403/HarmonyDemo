@@ -9,29 +9,34 @@ struct Index {
   private contents: ChapterData[] = Contents.get();
 
   build() {
-    Column({
-      space: 16
+    List({
+      space: 16,
     }) {
-      // 标题。
-      Text("目录")
-        .fontSize("28fp")
-        .fontWeight(FontWeight.Bold)
-        .lineHeight("33vp")
-        .width("80%")
-        .margin({
-          top: "24vp",
-          bottom: "12vp"
-        })
-        .textAlign(TextAlign.Start)
+      ListItem() {
+        // 标题。
+        Text("目录")
+          .fontSize("28fp")
+          .fontWeight(FontWeight.Bold)
+          .lineHeight("33vp")
+          .width("80%")
+          .margin({
+            top: "24vp",
+            bottom: "12vp"
+          })
+          .textAlign(TextAlign.Start)
+      }
       // 目录。
       ForEach(this.contents, (item: ChapterData, index?: number) => {
-        ChapterItem({
-          chapter: item
-        })
+        ListItem() {
+          ChapterItem({
+            chapter: item
+          })
+        }
       }, (item: ChapterData, index?: number) => {
         return JSON.stringify(item.id);
       })
     }
+    .alignListItem(ListItemAlign.Center)
     .width("100%")
     .height("100%")
     .backgroundColor($r("app.color.page_background"))

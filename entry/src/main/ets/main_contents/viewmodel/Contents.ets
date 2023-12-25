@@ -12,7 +12,8 @@ export class Contents {
     new ChapterData(String(++this.chapterIDs), "简易视频播放器", "simple_video/pages/SimpleVideoIndex"),
     new ChapterData(String(++this.chapterIDs), "自定义弹窗", "multi_dialogs/pages/HomePage"),
     new ChapterData(String(++this.chapterIDs), "属性动画示例", "property_anim/pages/TabIndex"),
-    new ChapterData(String(++this.chapterIDs), "WebView示例", "webview_demo/pages/MainPage"),
+    new ChapterData(String(++this.chapterIDs), "WebView示例\n本地服务：HttpServerOfWeb", "webview_demo/pages/MainPage"),
+    new ChapterData(String(++this.chapterIDs), "新闻客户端\n本地服务：HttpServerOfNews", "news_demo/pages/Index"),
   ];
 
   get(): ChapterData[] {
