@@ -255,6 +255,22 @@
     {
       "name": "news_dividerColor",
       "value": "#E2E2E2"
+    },
+    {
+      "name": "preference_setting_item_divider",
+      "value": "#0d182431"
+    },
+    {
+      "name": "preference_text",
+      "value": "#182431"
+    },
+    {
+      "name": "preference_set_chat_right_bg",
+      "value": "#D7E9F3"
+    },
+    {
+      "name": "preference_set_chat_left_bg",
+      "value": "#FFFFFF"
     }
   ]
 }

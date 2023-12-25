@@ -14,6 +14,7 @@ export class Contents {
     new ChapterData(String(++this.chapterIDs), "属性动画示例", "property_anim/pages/TabIndex"),
     new ChapterData(String(++this.chapterIDs), "WebView示例\n本地服务：HttpServerOfWeb", "webview_demo/pages/MainPage"),
     new ChapterData(String(++this.chapterIDs), "新闻客户端\n本地服务：HttpServerOfNews", "news_demo/pages/Index"),
+    new ChapterData(String(++this.chapterIDs), "设置字体并保存", "preference_demo/pages/HomePage"),
   ];
 
   get(): ChapterData[] {

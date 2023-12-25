@@ -14,6 +14,8 @@
     "property_anim/pages/TabIndex",
     "webview_demo/pages/MainPage",
     "webview_demo/pages/WebPage",
-    "news_demo/pages/Index"
+    "news_demo/pages/Index",
+    "preference_demo/pages/HomePage",
+    "preference_demo/pages/SettingFontSizePage"
   ]
 }

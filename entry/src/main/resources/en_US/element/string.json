@@ -519,6 +519,86 @@
     {
       "name": "news_dependency_reason",
       "value": "Used to initiate network data requests."
+    },
+    {
+      "name": "preference_home_display_and_brightness",
+      "value": "Display & brightness"
+    },
+    {
+      "name": "preference_home_title",
+      "value": "Settings"
+    },
+    {
+      "name": "preference_home_voice",
+      "value": "Sounds"
+    },
+    {
+      "name": "preference_home_app_management",
+      "value": "Apps"
+    },
+    {
+      "name": "preference_home_storage",
+      "value": "Storage"
+    },
+    {
+      "name": "preference_home_privacy",
+      "value": "Privacy"
+    },
+    {
+      "name": "preference_home_setting_the_font_size",
+      "value": "Setting the font size"
+    },
+    {
+      "name": "preference_set_title",
+      "value": "Font size settings"
+    },
+    {
+      "name": "preference_set_chat_content1",
+      "value": "Did you know that you can now clock in a variety of health goals for healthy living?"
+    },
+    {
+      "name": "preference_set_chat_content2",
+      "value": "Yes, I added exercise and diet related goals."
+    },
+    {
+      "name": "preference_set_chat_content3",
+      "value": "That's great. How do you feel?"
+    },
+    {
+      "name": "preference_set_chat_content4",
+      "value": "Life is getting better and better, you have a try!"
+    },
+    {
+      "name": "preference_set_size_small",
+      "value": "Small"
+    },
+    {
+      "name": "preference_set_size_normal",
+      "value": "Normal"
+    },
+    {
+      "name": "preference_set_size_large",
+      "value": "Large"
+    },
+    {
+      "name": "preference_set_size_extra_large",
+      "value": "Extra large"
+    },
+    {
+      "name": "preference_set_size_huge",
+      "value": "Huge"
+    },
+    {
+      "name": "preference_set_font_size",
+      "value": "Text size"
+    },
+    {
+      "name": "preference_set_char_a",
+      "value": "A"
+    },
+    {
+      "name": "preference_empty",
+      "value": "empty"
     }
   ]
 }

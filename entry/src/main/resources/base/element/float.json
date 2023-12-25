@@ -691,6 +691,94 @@
     {
       "name": "news_title_row_margin_top",
       "value": "16vp"
+    },
+    {
+      "name": "preference_title_ic_size",
+      "value": "24vp"
+    },
+    {
+      "name": "preference_title_ic_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "preference_title_padding_left",
+      "value": "16vp"
+    },
+    {
+      "name": "preference_title_text_margin_left",
+      "value": "8vp"
+    },
+    {
+      "name": "preference_block_background_radius",
+      "value": "24vp"
+    },
+    {
+      "name": "preference_block_vertical_padding",
+      "value": "4vp"
+    },
+    {
+      "name": "preference_setting_item_height",
+      "value": "48vp"
+    },
+    {
+      "name": "preference_setting_item_ic_size",
+      "value": "24vp"
+    },
+    {
+      "name": "preference_setting_ic_margin_left",
+      "value": "12vp"
+    },
+    {
+      "name": "preference_setting_ic_margin_right",
+      "value": "8vp"
+    },
+    {
+      "name": "preference_setting_item_divider_width",
+      "value": "0.5vp"
+    },
+    {
+      "name": "preference_setting_item_divider_start_margin",
+      "value": "44vp"
+    },
+    {
+      "name": "preference_set_text",
+      "value": "14fp"
+    },
+    {
+      "name": "preference_set_small_a",
+      "value": "20fp"
+    },
+    {
+      "name": "preference_set_big_a",
+      "value": "24fp"
+    },
+    {
+      "name": "preference_set_chat_content_vertical_padding",
+      "value": "20vp"
+    },
+    {
+      "name": "preference_set_chat_content_horizontal_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "preference_set_chat_content_bg_radius",
+      "value": "24vp"
+    },
+    {
+      "name": "preference_a_left_padding",
+      "value": "8vp"
+    },
+    {
+      "name": "preference_a_right_padding",
+      "value": "9vp"
+    },
+    {
+      "name": "preference_slider_top_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "preference_slider_bottom_padding",
+      "value": "21vp"
     }
   ]
 }
