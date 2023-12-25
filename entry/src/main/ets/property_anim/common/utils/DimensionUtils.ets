@@ -1,5 +1,5 @@
 import display from '@ohos.display';
-import { GlobalContext } from '../../../main_contents/common/utils/GlobalContext';
+import { GlobalContext } from './GlobalContext';
 
 export class DimensionUtils {
   private context = getContext(this);

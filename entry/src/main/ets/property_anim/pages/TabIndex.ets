@@ -1,3 +1,5 @@
+import display from '@ohos.display';
+import { GlobalContext } from '../common/utils/GlobalContext';
 import CommonConstants from '../common/constants/CommonConstants'
 import DimensionUtils from '../common/utils/DimensionUtils';
 import CardModel from '../model/CardModel';
@@ -7,27 +9,35 @@ import { FileManagerIndex } from '../view/FileManagerIndex';
 @Component
 struct TabIndex {
   @State currentPage: number = CommonConstants.INDEX_DEFAULT_SELECT;
+  @State displayInitialized: boolean = false;
+
+  async aboutToAppear() {
+    GlobalContext.getInstance().setObject("display", await display.getDefaultDisplaySync());
+    this.displayInitialized = true;
+  }
 
   build() {
-    Tabs({
-      barPosition: BarPosition.End,
-      index: this.currentPage
-    }) {
-      ForEach(CommonConstants.INDEX_TAB,
-        (item: CardModel, index?: number) => {
-          TabContent() {
-            if (index === CommonConstants.INDEX_DEFAULT_SELECT) {
-              FileManagerIndex()
+    if (this.displayInitialized) {
+      Tabs({
+        barPosition: BarPosition.End,
+        index: this.currentPage
+      }) {
+        ForEach(CommonConstants.INDEX_TAB,
+          (item: CardModel, index?: number) => {
+            TabContent() {
+              if (index === CommonConstants.INDEX_DEFAULT_SELECT) {
+                FileManagerIndex()
+              }
             }
-          }
-          .tabBar(this.TabBuilder(item, index))
-        },
-        (item: CardModel, index?: number) => JSON.stringify(item) + index)
+            .tabBar(this.TabBuilder(item, index))
+          },
+          (item: CardModel, index?: number) => JSON.stringify(item) + index)
+      }
+      .width(CommonConstants.FULL_LENGTH)
+      .height(CommonConstants.FULL_LENGTH)
+      .barMode(BarMode.Fixed)
+      .onChange((index: number) => this.currentPage = index)
     }
-    .width(CommonConstants.FULL_LENGTH)
-    .height(CommonConstants.FULL_LENGTH)
-    .barMode(BarMode.Fixed)
-    .onChange((index: number) => this.currentPage = index)
   }
 
   @Builder TabBuilder(item: CardModel, index: number | undefined) {

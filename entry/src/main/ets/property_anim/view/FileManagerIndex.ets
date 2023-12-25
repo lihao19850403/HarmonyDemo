@@ -2,7 +2,7 @@ import display from '@ohos.display'
 import CommonConstants from '../common/constants/CommonConstants';
 import { RefreshConstants, RefreshHeaderStyle, RefreshState } from '../common/constants/RefreshConstants';
 import DimensionUtils from '../common/utils/DimensionUtils';
-import { GlobalContext } from '../../main_contents/common/utils/GlobalContext'
+import { GlobalContext } from '../common/utils/GlobalContext'
 import { RefreshComponent } from './RefreshComponent';
 
 @Component

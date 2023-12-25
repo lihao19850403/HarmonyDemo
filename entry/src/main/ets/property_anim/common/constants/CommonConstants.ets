@@ -13,12 +13,7 @@
  * limitations under the License.
  */
 
-import display from '@ohos.display';
-import ClassifyModel from '../../model/AnimationModel';
 import CardModel from '../../model/CardModel';
-import { GlobalContext } from '../../../main_contents/common/utils/GlobalContext';
-
-let deviceDisplay: display.Display = GlobalContext.getInstance().getObject('display') as display.Display;
 
 /**
  * constant about common feature
@@ -59,17 +54,6 @@ export default class CommonConstants {
    * refresh header item animation ITERATIONS
    */
   static readonly REFRESH_HEADER_ITEM_ANIM_ITERATIONS = -1;
-
-  /**
-   * refresh header item feature
-   */
-  static readonly REFRESH_HEADER_FEATURE: ClassifyModel[] = [
-    new ClassifyModel($r('app.media.anim_ic_loading_game'), (px2vp(deviceDisplay.width) / 2 - CommonConstants.REFRESH_HEADER_ITEM_DEFAULT_WIDTH / 2) - 100, 400),
-    new ClassifyModel($r('app.media.anim_ic_loading_heart'), (px2vp(deviceDisplay.width) / 2 - CommonConstants.REFRESH_HEADER_ITEM_DEFAULT_WIDTH / 2) - 50, 800),
-    new ClassifyModel($r('app.media.anim_ic_loading_louder'), px2vp(deviceDisplay.width) / 2 - CommonConstants.REFRESH_HEADER_ITEM_DEFAULT_WIDTH / 2, 1200),
-    new ClassifyModel($r('app.media.anim_ic_loading_bag'), (px2vp(deviceDisplay.width) / 2 - CommonConstants.REFRESH_HEADER_ITEM_DEFAULT_WIDTH / 2) + 50, 1600),
-    new ClassifyModel($r('app.media.anim_ic_loading_file'), (px2vp(deviceDisplay.width) / 2 - CommonConstants.REFRESH_HEADER_ITEM_DEFAULT_WIDTH / 2) + 100, 2000)
-  ];
 
   /**
    * refresh header item width
