@@ -15,7 +15,8 @@ export class Contents {
     new ChapterData(String(++this.chapterIDs), "WebView示例\n本地服务：HttpServerOfWeb", "webview_demo/pages/MainPage"),
     new ChapterData(String(++this.chapterIDs), "新闻客户端\n本地服务：HttpServerOfNews", "news_demo/pages/Index"),
     new ChapterData(String(++this.chapterIDs), "设置字体并保存", "preference_demo/pages/HomePage"),
-    new ChapterData(String(++this.chapterIDs), "发送通知与提醒", "notifications_demo/pages/MainPage"),
+    new ChapterData(String(++this.chapterIDs), "发送通知示例", "notifications_demo/pages/MainPage"),
+    new ChapterData(String(++this.chapterIDs), "闹钟提醒示例", "reminder_demo/pages/MainIndex"),
   ];
 
   get(): ChapterData[] {

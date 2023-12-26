@@ -643,6 +643,54 @@
     {
       "name": "notifications_invalid_progress_toast",
       "value": "The progress bar template is not supported"
+    },
+    {
+      "name": "reminder_confirm",
+      "value": "确定"
+    },
+    {
+      "name": "reminder_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "reminder_ring_duration",
+      "value": "闹铃时长"
+    },
+    {
+      "name": "reminder_ring_interval",
+      "value": "再响间隔"
+    },
+    {
+      "name": "reminder_ring_interval_content",
+      "value": "响铃间隔时间（分钟）"
+    },
+    {
+      "name": "reminder_ring_times_content",
+      "value": "重复响铃次数"
+    },
+    {
+      "name": "reminder_alarm_name",
+      "value": "闹钟名"
+    },
+    {
+      "name": "reminder_repeat_name",
+      "value": "重复"
+    },
+    {
+      "name": "reminder_new_alarm",
+      "value": "新建闹钟"
+    },
+    {
+      "name": "reminder_update_alarm",
+      "value": "修改闹钟"
+    },
+    {
+      "name": "reminder_delete",
+      "value": "删除"
+    },
+    {
+      "name": "reminder_reason",
+      "value": "通知"
     }
   ]
 }
