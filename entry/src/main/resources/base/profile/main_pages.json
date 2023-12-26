@@ -16,6 +16,7 @@
     "webview_demo/pages/WebPage",
     "news_demo/pages/Index",
     "preference_demo/pages/HomePage",
-    "preference_demo/pages/SettingFontSizePage"
+    "preference_demo/pages/SettingFontSizePage",
+    "notifications_demo/pages/MainPage"
   ]
 }

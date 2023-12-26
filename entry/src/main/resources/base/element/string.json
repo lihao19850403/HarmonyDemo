@@ -599,6 +599,50 @@
     {
       "name": "preference_empty",
       "value": "empty"
+    },
+    {
+      "name": "notifications_title",
+      "value": "File DownLoad"
+    },
+    {
+      "name": "notifications_button_download",
+      "value": "DownLoad"
+    },
+    {
+      "name": "notifications_button_pause",
+      "value": "Pause"
+    },
+    {
+      "name": "notifications_button_resume",
+      "value": "Resume"
+    },
+    {
+      "name": "notifications_button_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "notifications_button_finish",
+      "value": "Open"
+    },
+    {
+      "name": "notifications_notification_title_download",
+      "value": "Downloading"
+    },
+    {
+      "name": "notifications_notification_title_pause",
+      "value": "Download paused"
+    },
+    {
+      "name": "notifications_notification_title_finish",
+      "value": "Download completed"
+    },
+    {
+      "name": "notifications_invalid_button_toast",
+      "value": "The function is not implemented"
+    },
+    {
+      "name": "notifications_invalid_progress_toast",
+      "value": "The progress bar template is not supported"
     }
   ]
 }

@@ -779,6 +779,62 @@
     {
       "name": "preference_slider_bottom_padding",
       "value": "21vp"
+    },
+    {
+      "name": "notifications_title_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "notifications_card_height",
+      "value": "108vp"
+    },
+    {
+      "name": "notifications_name_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "notifications_name_font_height",
+      "value": "16vp"
+    },
+    {
+      "name": "notifications_normal_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "notifications_title_margin_top",
+      "value": "24vp"
+    },
+    {
+      "name": "notifications_card_border_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "notifications_card_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "notifications_card_image_length",
+      "value": "48vp"
+    },
+    {
+      "name": "notifications_button_width",
+      "value": "72vp"
+    },
+    {
+      "name": "notifications_button_height",
+      "value": "28vp"
+    },
+    {
+      "name": "notifications_button_border_radius",
+      "value": "14vp"
+    },
+    {
+      "name": "notifications_button_margin",
+      "value": "8vp"
+    },
+    {
+      "name": "notifications_button_font_size",
+      "value": "12fp"
     }
   ]
 }

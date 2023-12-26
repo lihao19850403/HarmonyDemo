@@ -271,6 +271,18 @@
     {
       "name": "preference_set_chat_left_bg",
       "value": "#FFFFFF"
+    },
+    {
+      "name": "notifications_index_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "notifications_button_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "notifications_cancel_button_color",
+      "value": "#0D000000"
     }
   ]
 }
