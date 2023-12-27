@@ -5,6 +5,9 @@
   "main": "",
   "author": "",
   "license": "",
-  "dependencies": {}
+  "dependencies": {
+    "@ohos/library": "file:../library", // 引入本地项目。
+    "@ohos/lottie": "2.0.0" // 引入第三方库，直接写版本号。
+  }
 }
 

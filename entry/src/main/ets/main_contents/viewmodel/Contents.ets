@@ -17,6 +17,7 @@ export class Contents {
     new ChapterData(String(++this.chapterIDs), "设置字体并保存", "preference_demo/pages/HomePage"),
     new ChapterData(String(++this.chapterIDs), "发送通知示例", "notifications_demo/pages/MainPage"),
     new ChapterData(String(++this.chapterIDs), "闹钟提醒示例", "reminder_demo/pages/MainIndex"),
+    new ChapterData(String(++this.chapterIDs), "第三方库引用示例", "emoji_demo/pages/MainPage"),
   ];
 
   get(): ChapterData[] {

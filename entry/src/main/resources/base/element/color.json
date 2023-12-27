@@ -311,6 +311,34 @@
     {
       "name": "notifications_cancel_button_color",
       "value": "#0D000000"
+    },
+    {
+      "name": "emoji_app_bg",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "emoji_common_color",
+      "value": "#182431"
+    },
+    {
+      "name": "emoji_tab_selectedColor",
+      "value": "#007DFF"
+    },
+    {
+      "name": "emoji_tab_fontColor",
+      "value": "#182431"
+    },
+    {
+      "name": "emoji_outer_canvas_title",
+      "value": "#182431"
+    },
+    {
+      "name": "emoji_outer_button_font",
+      "value": "#007DFF"
+    },
+    {
+      "name": "emoji_outer_button_bg",
+      "value": "#dedbdb"
     }
   ]
 }

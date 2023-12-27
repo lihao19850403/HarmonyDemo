@@ -691,6 +691,34 @@
     {
       "name": "reminder_reason",
       "value": "通知"
+    },
+    {
+      "name": "emoji_main_title",
+      "value": "库的调用"
+    },
+    {
+      "name": "emoji_tab_title_inner",
+      "value": "本地调用"
+    },
+    {
+      "name": "emoji_tab_title_outer",
+      "value": "社区调用"
+    },
+    {
+      "name": "emoji_outer_button_load",
+      "value": "加载动画"
+    },
+    {
+      "name": "emoji_outer_button_end",
+      "value": "结束并回到第0帧"
+    },
+    {
+      "name": "emoji_outer_button_start",
+      "value": "播放"
+    },
+    {
+      "name": "emoji_outer_button_pause",
+      "value": "暂停"
     }
   ]
 }
