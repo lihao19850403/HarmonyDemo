@@ -719,6 +719,14 @@
     {
       "name": "emoji_outer_button_pause",
       "value": "暂停"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
     }
   ]
 }

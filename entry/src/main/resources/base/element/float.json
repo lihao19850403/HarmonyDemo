@@ -835,6 +835,10 @@
     {
       "name": "notifications_button_font_size",
       "value": "12fp"
+    },
+    {
+      "name": "font_size",
+      "value": "16fp"
     }
   ]
 }

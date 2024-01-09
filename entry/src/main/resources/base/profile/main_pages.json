@@ -20,6 +20,10 @@
     "notifications_demo/pages/MainPage",
     "reminder_demo/pages/MainIndex",
     "reminder_demo/pages/DetailIndex",
-    "emoji_demo/pages/MainPage"
+    "emoji_demo/pages/MainPage",
+    "decorators1_demo/pages/Index",
+    "decorators2_demo/pages/Index",
+    "decorators3_demo/pages/Index",
+    "decorators4_demo/pages/Index"
   ]
 }

@@ -22,7 +22,10 @@ export class Contents {
       new ChapterData(String(++this.chapterIDs), "第三方库引用示例", "emoji_demo/pages/MainPage"),
     ]),
     new SectionData("HCIA", [
-      
+      new ChapterData(String(++this.chapterIDs), "装饰器示例1\n@State->@Prop->@Prop", "decorators1_demo/pages/Index"),
+      new ChapterData(String(++this.chapterIDs), "装饰器示例2\n@State->@Link->@Link", "decorators2_demo/pages/Index"),
+      new ChapterData(String(++this.chapterIDs), "装饰器示例3\n@State->@Link->@Prop", "decorators3_demo/pages/Index"),
+      new ChapterData(String(++this.chapterIDs), "装饰器示例4【不支持的传递路径】\n@State->@Prop->@Link", "decorators4_demo/pages/Index"),
     ]),
   ];
 
