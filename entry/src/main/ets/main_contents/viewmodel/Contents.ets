@@ -28,6 +28,7 @@ export class Contents {
       new ChapterData(String(++this.chapterIDs), "装饰器示例4【不支持的传递路径】\n@State->@Prop->@Link", "decorators4_demo/pages/Index"),
       new ChapterData(String(++this.chapterIDs), "装饰器示例5\n@Observed->@ObjectLink", "decorators5_demo/pages/Index"),
       new ChapterData(String(++this.chapterIDs), "装饰器示例6\n@Provide->@Consume->@Consume", "decorators6_demo/pages/Index"),
+      new ChapterData(String(++this.chapterIDs), "App/Local/Persistent\n@(Local)StorageLink/Prop", "storage_demo/pages/Index"),
     ]),
   ];
 

@@ -3,6 +3,13 @@ import { SectionData } from '../model/SectionData';
 import ChapterItem from '../view/ChapterItem';
 import Contents from '../viewmodel/Contents'
 
+/* 此处设置一个全局的属性。 */
+AppStorage.SetOrCreate("PropA", 47);
+
+/* 此处进行属性的持久化。 */
+PersistentStorage.PersistProp("aPropA", 10); // 10只是一个初始值。
+AppStorage.Get("aPropA");
+
 @Entry
 @Component
 struct Index {

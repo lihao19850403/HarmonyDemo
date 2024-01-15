@@ -26,6 +26,7 @@
     "decorators3_demo/pages/Index",
     "decorators4_demo/pages/Index",
     "decorators5_demo/pages/Index",
-    "decorators6_demo/pages/Index"
+    "decorators6_demo/pages/Index",
+    "storage_demo/pages/Index"
   ]
 }
