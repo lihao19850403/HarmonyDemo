@@ -27,6 +27,7 @@
     "decorators4_demo/pages/Index",
     "decorators5_demo/pages/Index",
     "decorators6_demo/pages/Index",
-    "storage_demo/pages/Index"
+    "storage_demo/pages/Index",
+    "lazyforeach_demo/pages/Index"
   ]
 }
