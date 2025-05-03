@@ -4,3 +4,6 @@ oh_modules
 HttpServerOfWeb/node_modules
 package-lock.json
 HttpServerOfNews/node_modules
+.clang-format
+oh-package-lock.json5
+entry/oh-package-lock.json5
